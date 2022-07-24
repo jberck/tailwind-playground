@@ -1,2 +1,2 @@
-# tailwind-palyground
+# tailwind-playground
 Playground for tailwind CSS
